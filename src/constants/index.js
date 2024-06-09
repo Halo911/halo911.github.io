@@ -321,44 +321,6 @@ const projects = [
     demo_link: 'https://figma-clone-hyju.onrender.com/',
   },
   {
-    name: 'MERN Blog',
-    description:
-      'A full stack MERN blog project that demonstrates CRUD operations in managing property listings using MongoDB. Featuring advanced authentication using JSON Web Tokens (JWT), and seamlessly integrate Google OAuth for a smooth login experience, advanced search functionality that allow user to filter listings by title, apply sorting options, and efficiently limit search results.',
-    tags: [
-      {
-        name: 'React',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'BcryptJS',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Json Webtoken',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Mongoose',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Redux Toolkit',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Firebase',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Flowbite React',
-        color: 'blue-text-gradient',
-      },
-    ],
-    image: mernblog,
-    source_code_link: 'https://github.com/Halo911/mern-blog',
-    demo_link: 'https://mern-blog-w6je.onrender.com/',
-  },
-  {
     name: 'DevCamper Api',
     description:
       'A comprehensive backend API that interacts with MongoDB not only provides CRUD Restful API operations, but also implements authentication, roles and permissions, password reset tokens, email functionality, etc.',
@@ -395,6 +357,50 @@ const projects = [
     image: devcamperapi,
     source_code_link: 'https://github.com/Halo911/devcamper-api',
     demo_link: 'https://devcamper-api-t2qg.onrender.com/#Bootcamps',
+  },
+  {
+    name: 'Flixx Movies',
+    description:
+      'A simple movies information showcase site build with Vanilla Javascript, Swiper and Fontawesome. This site fetches data from TheMovieDB API to display movies and TV shows informations. It has functionalities like search, custom alert, and pagination, etc. This site is designed responsively for various devices.',
+    tags: [
+      {
+        name: 'Vanilla Javascript',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Fontawesome',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Swiper.js',
+        color: 'blue-text-gradient',
+      },
+    ],
+    image: flixxmovies,
+    source_code_link: 'https://github.com/Halo911/flixx-app',
+    demo_link: 'https://flixx-app-ge6z.onrender.com/',
+  },
+  {
+    name: 'Anime Vault',
+    description:
+      'A NextJS server side app built with server actions, infinite scroll & Framer Motion animations. By using server actions, less client side code is shipped, offloading the burden of processing client data, which then pages will load faster and respond better, and favored for search engines. This will improve overall user experiences. This site is designed responsively for various devices.',
+    tags: [
+      {
+        name: 'NextJS',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Framer Motion',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Tailwind CSS',
+        color: 'blue-text-gradient',
+      },
+    ],
+    image: animevault,
+    source_code_link: 'https://github.com/Halo911/anime_vault',
+    demo_link: 'https://anime-vault.onrender.com/',
   },
   {
     name: '3D Portfolio',
@@ -449,48 +455,42 @@ const projects = [
     demo_link: 'https://tracalories-webpack.onrender.com/',
   },
   {
-    name: 'Flixx Movies',
+    name: 'MERN Blog',
     description:
-      'A simple movies information showcase site build with Vanilla Javascript, Swiper and Fontawesome. This site fetches data from TheMovieDB API to display movies and TV shows informations. It has functionalities like search, custom alert, and pagination, etc. This site is designed responsively for various devices.',
+      'A full stack MERN blog project that demonstrates CRUD operations in managing property listings using MongoDB. Featuring advanced authentication using JSON Web Tokens (JWT), and seamlessly integrate Google OAuth for a smooth login experience, advanced search functionality that allow user to filter listings by title, apply sorting options, and efficiently limit search results.',
     tags: [
       {
-        name: 'Vanilla Javascript',
+        name: 'React',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Fontawesome',
+        name: 'BcryptJS',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Swiper.js',
+        name: 'Json Webtoken',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Mongoose',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Redux Toolkit',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Firebase',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Flowbite React',
         color: 'blue-text-gradient',
       },
     ],
-    image: flixxmovies,
-    source_code_link: 'https://github.com/Halo911/flixx-app',
-    demo_link: 'https://flixx-app-ge6z.onrender.com/',
-  },
-  {
-    name: 'Anime Vault',
-    description:
-      'A NextJS server side app built with server actions, infinite scroll & Framer Motion animations. By using server actions, less client side code is shipped, offloading the burden of processing client data, which then pages will load faster and respond better, and favored for search engines. This will improve overall user experiences. This site is designed responsively for various devices.',
-    tags: [
-      {
-        name: 'NextJS',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Framer Motion',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'Tailwind CSS',
-        color: 'blue-text-gradient',
-      },
-    ],
-    image: animevault,
-    source_code_link: 'https://github.com/Halo911/anime_vault',
-    demo_link: 'https://anime-vault.onrender.com/',
+    image: mernblog,
+    source_code_link: 'https://github.com/Halo911/mern-blog',
+    demo_link: 'https://mern-blog-w6je.onrender.com/',
   },
 ];
 
