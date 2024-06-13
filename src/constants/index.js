@@ -361,7 +361,7 @@ const projects = [
   {
     name: 'Flixx Movies',
     description:
-      'A simple movies information showcase site build with Vanilla Javascript, Swiper and Fontawesome. This site fetches data from TheMovieDB API to display movies and TV shows informations. It has functionalities like search, custom alert, and pagination, etc. This site is designed responsively for various devices.',
+      'A simple movie information showcase site built with Vanilla Javascript, Swiper and Fontawesome. This site fetches data from TheMovieDB API to display movies and TV shows information. It has functionalities like search, custom alert, and pagination, etc. This site is designed responsively for various devices.',
     tags: [
       {
         name: 'Vanilla Javascript',
@@ -435,7 +435,7 @@ const projects = [
   {
     name: 'Calories Tracker',
     description:
-      'A simple calories tracking system build with Vanilla Javascript, Bootstrap and Fontawesome. This app allows user to not only do CRUD operations but also to filter items and track their daily meals and workouts, and persist data in local storage. This site is designed responsively for various devices.',
+      'A simple calories tracking system built with Vanilla Javascript, Bootstrap and Fontawesome. This app allows users to not only do CRUD operations but also to filter items and track their daily meals and workouts, and persist data in local storage. This site is designed responsively for various devices.',
     tags: [
       {
         name: 'Vanilla Javascript',
@@ -457,7 +457,7 @@ const projects = [
   {
     name: 'MERN Blog',
     description:
-      'A full stack MERN blog project that demonstrates CRUD operations in managing property listings using MongoDB. Featuring advanced authentication using JSON Web Tokens (JWT), and seamlessly integrate Google OAuth for a smooth login experience, advanced search functionality that allow user to filter listings by title, apply sorting options, and efficiently limit search results.',
+      'A full stack MERN blog project that demonstrates CRUD operations in managing property listings using MongoDB. Featuring advanced authentication using JSON Web Tokens (JWT), and seamlessly integrating Google OAuth for a smooth login experience, advanced search functionality that allow users to filter listings by title, apply sorting options, and efficiently limit search results.',
     tags: [
       {
         name: 'React',

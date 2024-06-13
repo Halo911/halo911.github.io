@@ -49,7 +49,7 @@ const About = () => {
       >
         With a diverse skill set spanning front-end and back-end development,
         coupled with certifications as an Oracle Certified Java Programmer and
-        verious MERN Bootcamp Certifications from Udemy, I bring a wealth of
+        various MERN Bootcamp Certifications from Udemy, I bring a wealth of
         experience and expertise to every project. From designing responsive web
         applications with modern frameworks like React and Vue.js to
         architecting microservices using Spring Boot, my journey in the realm of
