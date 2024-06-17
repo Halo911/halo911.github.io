@@ -261,27 +261,29 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.',
-    name: 'Sara Lee',
-    designation: 'CFO',
-    company: 'Acme Co',
-    image: 'https://randomuser.me/api/portraits/women/4.jpg',
+      "Harold is a competent developer and able to complete every task assigned to him on time with good quality. More importantly, he's a strong sense of responsibility and often helpful as a mentor to junior members of his team.",
+    name: 'Alan Chan',
+    designation: 'Entrepreneur',
+    company: 'AJC',
+    image:
+      'https://media.licdn.com/dms/image/C4D03AQELD75BXNwoMQ/profile-displayphoto-shrink_100_100/0/1516251661936?e=1724284800&v=beta&t=gr9F9BxEpub6LMD5Ke2tQQ8s9N1rYPqon0Mj2OPZiqI',
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: 'Chris Brown',
-    designation: 'COO',
-    company: 'DEF Corp',
-    image: 'https://randomuser.me/api/portraits/men/5.jpg',
+      'Harold was a good team player, technical and very detail oriented. He is good in analysing and solving complex problems. I look forward to work with him again in future.',
+    name: 'Paul Vuong',
+    designation: 'Full Stack Developer',
+    company: 'Recommind Inc',
+    image: '',
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: 'Lisa Wang',
-    designation: 'CTO',
-    company: '456 Enterprises',
-    image: 'https://randomuser.me/api/portraits/women/6.jpg',
+      'Harold has very strong technical skill on J2EE , and good team player',
+    name: 'David Tao',
+    designation: 'Sr. Test Automation Engineer',
+    company: 'Elecsoft Consulting',
+    image:
+      'https://media.licdn.com/dms/image/C5603AQGm30Vgc_rI3Q/profile-displayphoto-shrink_100_100/0/1517762209192?e=1724284800&v=beta&t=m-G0u4t5EbEUhF6goEvQJBH8u6byN_tdM6-s7IiN4HI',
   },
 ];
 
