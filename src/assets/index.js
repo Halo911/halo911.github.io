@@ -50,6 +50,7 @@ import threedportfolio from './threedportfolio.png';
 import tracalories from './tracalories.png';
 import flixxmovies from './flixxmovies.png';
 import animevault from './animevault.png';
+import default_avator from './default_avator.png';
 
 export {
   logo,
@@ -99,4 +100,5 @@ export {
   tracalories,
   flixxmovies,
   animevault,
+  default_avator,
 };
