@@ -274,7 +274,8 @@ const testimonials = [
     name: 'Paul Vuong',
     designation: 'Full Stack Developer',
     company: 'Recommind Inc',
-    image: '',
+    image:
+      'https://www.linkedin.com/in/paulvuong?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recommendations_details%3B9eT2QnmRRsSaLjT9Uu8wTg%3D%3D',
   },
   {
     testimonial:
