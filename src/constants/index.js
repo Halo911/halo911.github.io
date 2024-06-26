@@ -403,7 +403,7 @@ const projects = [
     ],
     image: animevault,
     source_code_link: 'https://github.com/Halo911/anime_vault',
-    demo_link: 'https://anime-vault.onrender.com/',
+    demo_link: 'https://anime-vault-beryl-one.vercel.app/',
   },
   {
     name: '3D Portfolio',
