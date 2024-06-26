@@ -321,7 +321,7 @@ const projects = [
     ],
     image: figmaclone,
     source_code_link: 'https://github.com/Halo911/figma_clone',
-    demo_link: 'https://figma-clone-hyju.onrender.com/',
+    demo_link: 'https://figma-clone-chi-vert.vercel.app/',
   },
   {
     name: 'DevCamper Api',
