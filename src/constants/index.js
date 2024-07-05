@@ -43,6 +43,10 @@ import {
   flixxmovies,
   animevault,
   default_avator,
+  ai_saas_imaginify,
+  clerk,
+  cloudinary,
+  stripe,
 } from '../assets';
 
 export const navLinks = [
@@ -171,6 +175,18 @@ const technologies = [
   {
     name: 'springboot',
     icon: springboot,
+  },
+  {
+    name: 'clerk',
+    icon: clerk,
+  },
+  {
+    name: 'cloudinary',
+    icon: cloudinary,
+  },
+  {
+    name: 'stripe',
+    icon: stripe,
   },
 ];
 
@@ -324,42 +340,46 @@ const projects = [
     demo_link: 'https://figma-clone-chi-vert.vercel.app/',
   },
   {
-    name: 'DevCamper Api',
+    name: 'AI Saas - Imaginify',
     description:
-      'A comprehensive backend API that interacts with MongoDB not only provides CRUD Restful API operations, but also implements authentication, roles and permissions, password reset tokens, email functionality, etc.',
+      'This is an AI SaaS platform project built with the latest technologies such as: NextJS, TypeScript, MongoDB, Shadcn, and TailwindCSS. It integrates Clerk to authenticate and mange users. It provides multiple advanced image processing capabilities, including image filling, restoration, recoloring, object removal, and background removal, using Cloudinary API. It also integrates a secure payment infrastructure with Stripe.',
     tags: [
       {
-        name: 'React',
+        name: 'Next.js',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Mongoose',
+        name: 'MongoDB',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Express',
+        name: 'TypeScript',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Bcryptjs',
+        name: 'Shadcn',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Json Webtoken',
+        name: 'TailwindCSS',
         color: 'blue-text-gradient',
       },
       {
-        name: 'XSS-Lean',
+        name: 'Clerk',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Cors',
+        name: 'Cloudinary',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Stripe',
         color: 'blue-text-gradient',
       },
     ],
-    image: devcamperapi,
-    source_code_link: 'https://github.com/Halo911/devcamper-api',
-    demo_link: 'https://devcamper-api-t2qg.onrender.com/#Bootcamps',
+    image: ai_saas_imaginify,
+    source_code_link: 'https://github.com/Halo911/ai-saas-imaginify',
+    demo_link: 'https://ai-saas-imaginify-woad.vercel.app/',
   },
   {
     name: 'Flixx Movies',

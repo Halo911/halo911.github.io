@@ -29,6 +29,9 @@ import nextjs from './tech2/nextjs.svg';
 import python from './tech2/python.svg';
 import sass from './tech2/sass.svg';
 import springboot from './tech2/springboot.svg';
+import clerk from './tech2/clerk.svg';
+import cloudinary from './tech2/cloudinary.png';
+import stripe from './tech2/stripe.svg';
 
 import meta from './company/meta.png';
 import shopify from './company/shopify.png';
@@ -51,6 +54,7 @@ import tracalories from './tracalories.png';
 import flixxmovies from './flixxmovies.png';
 import animevault from './animevault.png';
 import default_avator from './default_avator.png';
+import ai_saas_imaginify from './ai_saas_imaginify.png';
 
 export {
   logo,
@@ -101,4 +105,8 @@ export {
   flixxmovies,
   animevault,
   default_avator,
+  ai_saas_imaginify,
+  clerk,
+  cloudinary,
+  stripe,
 };
