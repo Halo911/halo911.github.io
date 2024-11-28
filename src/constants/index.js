@@ -192,7 +192,7 @@ const experiences = [
     company_name: 'Paramount Commerce',
     icon: paramountcommerce,
     iconBg: '#FFFFFF',
-    date: 'Sep 2020 - Jul 2024',
+    date: 'Sep 2020 - May 2024',
     points: [
       'Design and development of microservices with Domain Driven Design principles using the Spring Boot framework, ensuring scalability, and improving overall system reliability.',
       'Designed and implemented RESTful APIs using the latest version of Spring Boot, facilitating seamless communication between the front-end and back-end components.',
@@ -206,20 +206,20 @@ const experiences = [
       'Stayed current with emerging technologies and industry trends, incorporating relevant tools and frameworks to continually improve the development stack.',
     ],
   },
-  {
-    title: 'Front-End Developer',
-    company_name: 'AJC & Associates Inc',
-    icon: null,
-    iconBg: '#ffffff',
-    date: 'Sep 2017 - Sep 2020',
-    points: [
-      'Developed responsive and mobile-friendly web applications, with modern JavaScript frameworks such as React, ensuring a seamless user experience across various devices and screen sizes.',
-      ,
-      'Ensured cross-browser compatibility by rigorously testing and debugging code to deliver consistent performance across popular browsers.',
-      'Collaborated closely with UX/UI designers to translate design prototypes into functional and visually appealing interfaces, prioritizing a user-centric design approach.',
-      'Utilized version control systems like Git for collaborative development, working closely with back-end developers and other team members to integrate front-end components seamlessly into the overall system.',
-    ],
-  },
+  // {
+  //   title: 'Front-End Developer',
+  //   company_name: 'AJC & Associates Inc',
+  //   icon: null,
+  //   iconBg: '#ffffff',
+  //   date: 'Sep 2017 - Sep 2020',
+  //   points: [
+  //     'Developed responsive and mobile-friendly web applications, with modern JavaScript frameworks such as React, ensuring a seamless user experience across various devices and screen sizes.',
+  //     ,
+  //     'Ensured cross-browser compatibility by rigorously testing and debugging code to deliver consistent performance across popular browsers.',
+  //     'Collaborated closely with UX/UI designers to translate design prototypes into functional and visually appealing interfaces, prioritizing a user-centric design approach.',
+  //     'Utilized version control systems like Git for collaborative development, working closely with back-end developers and other team members to integrate front-end components seamlessly into the overall system.',
+  //   ],
+  // },
   {
     title: 'Professional Service Engineer',
     company_name: 'Guardian Analytics',
