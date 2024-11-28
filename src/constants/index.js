@@ -228,10 +228,9 @@ const experiences = [
     date: 'Feb 2015 - Aug 2017',
     points: [
       'Work with scripting languages, such as Perl, Awk, and Bash, in order to support data analysis and model deployment',
-      'Execute Perl and Python scripts and monitor the results to ensure for successful deployment of clients model.',
+      'Execute Perl scripts and monitor the results to ensure for successful deployment of clients model.',
       'Work with Algorithm Scientist and model developer to resolve problems and clear the way for successful implementation of clients model.',
       'Working collaboratively with technical and non-technical teams (e.g., Engineering, Sales, and Network Operations)',
-      'Manage multiple projects end-to-end',
     ],
   },
   {
