@@ -165,10 +165,6 @@ const technologies = [
     icon: nextjs,
   },
   {
-    name: 'python',
-    icon: python,
-  },
-  {
     name: 'sass',
     icon: sass,
   },
@@ -192,11 +188,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Senior Java Developer',
+    title: 'Java Developer',
     company_name: 'Paramount Commerce',
     icon: paramountcommerce,
     iconBg: '#FFFFFF',
-    date: 'Sep 2020 - Present',
+    date: 'Sep 2020 - Jul 2024',
     points: [
       'Design and development of microservices with Domain Driven Design principles using the Spring Boot framework, ensuring scalability, and improving overall system reliability.',
       'Designed and implemented RESTful APIs using the latest version of Spring Boot, facilitating seamless communication between the front-end and back-end components.',
@@ -217,7 +213,7 @@ const experiences = [
     iconBg: '#ffffff',
     date: 'Sep 2017 - Sep 2020',
     points: [
-      'Developed responsive and mobile-friendly web applications, with modern JavaScript frameworks such as React, Angular, or Vue.js, ensuring a seamless user experience across various devices and screen sizes.',
+      'Developed responsive and mobile-friendly web applications, with modern JavaScript frameworks such as React, ensuring a seamless user experience across various devices and screen sizes.',
       ,
       'Ensured cross-browser compatibility by rigorously testing and debugging code to deliver consistent performance across popular browsers.',
       'Collaborated closely with UX/UI designers to translate design prototypes into functional and visually appealing interfaces, prioritizing a user-centric design approach.',
@@ -231,7 +227,7 @@ const experiences = [
     iconBg: '#ffffff',
     date: 'Feb 2015 - Aug 2017',
     points: [
-      'Work with scripting languages, such as Perl, Awk, Bash, and Python, in order to support data analysis and model deployment',
+      'Work with scripting languages, such as Perl, Awk, and Bash, in order to support data analysis and model deployment',
       'Execute Perl and Python scripts and monitor the results to ensure for successful deployment of clients model.',
       'Work with Algorithm Scientist and model developer to resolve problems and clear the way for successful implementation of clients model.',
       'Working collaboratively with technical and non-technical teams (e.g., Engineering, Sales, and Network Operations)',
