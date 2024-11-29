@@ -194,16 +194,13 @@ const experiences = [
     iconBg: '#FFFFFF',
     date: 'Sep 2020 - May 2024',
     points: [
-      'Design and development of microservices with Domain Driven Design principles using the Spring Boot framework, ensuring scalability, and improving overall system reliability.',
       'Designed and implemented RESTful APIs using the latest version of Spring Boot, facilitating seamless communication between the front-end and back-end components.',
-      'Developed and optimized database queries using Hibernate, improving the efficiency of data retrieval and analysis.',
+      'Developed and optimized database queries to improve the efficiency of data retrieval and analysis.',
       'Developed and maintained Java-based applications, focusing on both front-end and back-end components.',
       'Collaborated with cross-functional teams to deliver feature-rich applications, ensuring adherence to coding standards and best practices.',
       'Implemented authentication and authorization mechanisms, leveraging Spring Security for secure user access and data protection.',
       'Integrated CI/CD pipelines, automating testing and deployment processes to achieve faster and more reliable releases.',
       'Utilized containerization technologies such as Docker for efficient deployment and scalability, minimizing downtime and improving system reliability.',
-      'Worked closely with database administrators to design and optimize database schemas, enhancing data retrieval and storage efficiency.',
-      'Stayed current with emerging technologies and industry trends, incorporating relevant tools and frameworks to continually improve the development stack.',
     ],
   },
   // {
@@ -227,7 +224,7 @@ const experiences = [
     iconBg: '#ffffff',
     date: 'Feb 2015 - Aug 2017',
     points: [
-      'Work with scripting languages, such as Perl, Awk, and Bash, in order to support data analysis and model deployment',
+      'Work with scripting languages, such as Perl, in order to support data analysis and model deployment',
       'Execute Perl scripts and monitor the results to ensure for successful deployment of clients model.',
       'Work with Algorithm Scientist and model developer to resolve problems and clear the way for successful implementation of clients model.',
       'Working collaboratively with technical and non-technical teams (e.g., Engineering, Sales, and Network Operations)',
@@ -261,12 +258,16 @@ const experiences = [
     ],
   },
   {
-    title: 'E-Commerce Programmer',
+    title: 'E-Commerce Developer',
     company_name: 'Global Connexxions',
     icon: null,
     iconBg: '#ffffff',
     date: 'Apr 1999 - Apr 2007',
-    points: [],
+    points: [
+      'Develop and maintain e-commerce website',
+      'Implement backend with ASP',
+      'Design and create user interface with HTML, CSS, and JavaScript'
+    ],
   },
 ];
 
@@ -329,6 +330,10 @@ const projects = [
         name: 'Tailwind CSS',
         color: 'blue-text-gradient',
       },
+      {
+        name: 'React',
+        color: 'blue-text-gradient',
+      },
     ],
     image: figmaclone,
     source_code_link: 'https://github.com/Halo911/figma_clone',
@@ -369,6 +374,10 @@ const projects = [
       },
       {
         name: 'Stripe',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'React',
         color: 'blue-text-gradient',
       },
     ],
@@ -413,6 +422,10 @@ const projects = [
       },
       {
         name: 'Tailwind CSS',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'React',
         color: 'blue-text-gradient',
       },
     ],
