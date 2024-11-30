@@ -52,7 +52,7 @@ const About = () => {
         various MERN Bootcamp Certifications from Udemy, I bring a wealth of
         experience and expertise to every project. From designing responsive web
         applications with modern frameworks like React to
-        architecting microservices using Spring Boot, my journey in the realm of
+        server-side APIs developments using Spring Boot, my journey in the realm of
         software development has been marked by a relentless pursuit of
         excellence. Through collaborative endeavors with cross-functional teams,
         I've honed my ability to navigate the full development lifecycle,
